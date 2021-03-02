@@ -1,0 +1,30 @@
+:root {
+ --green:#16C79A;
+  --dark-grey: #393e46;
+}
+
+body {
+  background-color: var(--dark-grey);
+}
+
+h1, h3  {
+  text-align: center;
+  color: var(--green);
+}
+
+img {
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.players {
+  padding: 3% 15% 7%;
+}
+
+.player1 {
+  /* text-align: center; */
+}
+
+.player2 {
+  /* text-align: center; */
+}
